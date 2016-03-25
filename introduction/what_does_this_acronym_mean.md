@@ -1,2 +1,4 @@
-# What does this Acronym mean?
+# Progression
+
+In FFXIV, Progression comes in two forms; Levelling up, and earning new classes and jobs.
 
