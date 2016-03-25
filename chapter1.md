@@ -1,3 +1,35 @@
-# First Chapter
+# What does this acronym mean?
 
-GitBook allows you to organize your book into chapters, each chapter is stored in a separate file like this one.
+- ACN = Arcanist
+- ARC = Archer
+- AST = Astrologian
+- BLM = Black Mage
+- BRD = Bard
+- CNJ = Conjurer
+- DEX = Dexterity
+- DPS = Damage per second, also used to refer to damage dealing classes (i.e. not tanks or healers)
+- DRG = Dragoon
+- DRK = Dark Knight
+- GC = Grand Company (Gridania's Twin Adders, Ul'dah's Immortal Flames and Limsa Lominsa's Maelstrom)
+- GLA = Gladiator
+- FC = Free Company (aka Player-run guilds)
+- INT = Intelligence
+- LNC = Lancer
+- MCH = Machinist
+- MND = Mind
+- MNK = Monk
+- MRD = Marauder
+- **MSQ = Main story quest**
+- NIN = Ninja
+- PGL = Pugilist
+- PIE = Piety
+- PLD = Paladin
+- ROG = Rogue
+- SCH = Scholar
+- SMN = Summoner
+- STR = Strength
+- THM = Thaumaturge
+- VIT = Vitality
+- WAR = Warrior
+- WHM = White Mage
+
