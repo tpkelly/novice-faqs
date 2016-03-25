@@ -8,6 +8,4 @@
    * [Should I level another character?](progression/should_i_level_another_character.md)
    * [Where do I unlock the XYZ class/job?](progression/where_do_i_unlock_the_xyz_classjob.md)
    * [What can I do to be better at my job?](progression/what_can_i_do_to_be_better_at_my_job.md)
-* [Progression](progression.md)
-   * [How do I maximise my exp?](how_do_i_maximise_my_exp.md)
 
