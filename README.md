@@ -1,3 +1,5 @@
-# My Awesome Book
+# A guide for new adventurers
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+Welcome to the guide!
+
+I've been an active Mentor on Lich since the system was introduced, and time and time again I see the same questions coming up. Each time, a lot of mentors would all answer simultaneously and often provide tips geared more to endgame, or using acronyms which new players don't understand.
