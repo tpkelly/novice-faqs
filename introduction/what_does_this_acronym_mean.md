@@ -12,6 +12,7 @@
 - DRK = Dark Knight
 - GC = Grand Company (Gridania's Twin Adders, Ul'dah's Immortal Flames and Limsa Lominsa's Maelstrom)
 - GLA = Gladiator
+- GM = Game Master (aka Square Enix mods)
 - FC = Free Company (aka Player-run guilds)
 - INT = Intelligence
 - LNC = Lancer

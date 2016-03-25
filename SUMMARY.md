@@ -12,6 +12,7 @@
   * [Where is my next storyline quest?](playing/storyline.md)
   * [How do I make money?](playing/money.md)
   * [What important sidequests should I pick up?](playing/sidequests.md)
+  * [How do I choose a guild to join?](playing/guilds.md)
   * [What shortcuts can I use on PC?](playing/shortcuts.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [How do I leave the novice chat?](troubleshooting/leave.md)
