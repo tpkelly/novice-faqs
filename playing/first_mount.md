@@ -1,4 +1,4 @@
-### Where do I earn my mount?
+### When do I get my Chocobo?
 
 To earn a mount, you need to have completed the level 20 main story quest and joined a grand company. You will be able to start a side quest called "My Little Chocobo" at the Grand Company HQ.
 

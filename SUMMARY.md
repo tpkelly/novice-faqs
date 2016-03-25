@@ -8,7 +8,7 @@
    * [Where do I unlock this class/job?](progression/where_do_i_unlock_the_xyz_classjob.md)
    * [How can I get better at my job?](progression/how_can_i_get_better_at_my_job.md)
 * [Playing the game](playing/README.md)
-  * [Where do I get my first mount?](playing/first_mount.md)
+  * [When do I get my Chocobo?](playing/first_mount.md)
   * [Where is my next story quest?](playing/storyline.md)
   * [How do I make money?](playing/money.md)
   * [Which sidequests are useful?](playing/sidequests.md)
