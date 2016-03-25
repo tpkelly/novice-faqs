@@ -7,4 +7,12 @@
    * [Should I level another character?](progression/should_i_level_another_character.md)
    * [Where do I unlock the XYZ class/job?](progression/where_do_i_unlock_the_xyz_classjob.md)
    * [How can I get better at my job?](progression/how_can_i_get_better_at_my_job.md)
-
+* [Playing the game](playing/README.md)
+  * [Where do I get my first mount?](playing/first_mount.md)
+  * [Where is my next storyline quest?](playing/storyline.md)
+  * [How do I make money?](playing/money.md)
+  * [What important sidequests should I pick up?](playing/sidequests.md)
+  * [What shortcuts can I use on PC?](playing/shortcuts.md)
+* [Troubleshooting](troubleshooting/README.md)
+  * [How do I leave the novice chat?](troubleshooting/leave.md)
+  * [How do I report someone causing trouble?](troubleshooting/report.md)
