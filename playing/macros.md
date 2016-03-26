@@ -10,7 +10,7 @@ Macros allow you to write up to 15 lines of commands and include anything you co
 
 The most common macro you will want to use it to execute an ability. To do this you would type something like the following;
 
-/action "Ability name" <t>
+```/action "Ability name" <t>```
 
 This would execute the ability "Ability name" on the current target.
 
@@ -26,17 +26,21 @@ If you want to add a wait after an action before the next one is executed, you u
 
 E.g.
 
-```/ac "Divine Seal" <me> <wait.2>
-/ac "Cure" <t>```
+```
+/ac "Divine Seal" <me> <wait.2>
+/ac "Cure" <t>
+```
 
 This would activate Divine Seal on yourself, then start casting Cure on the target 2 seconds later.
 
 You can change the icon of the macro to the icon an ability would normally use with something like the following
 
-```/macroicon "Raise"
+```
+/macroicon "Raise"
 /party Raising <t>
 /action "Swiftcast" <me> <wait.1>
-/action "Raise" <t>```
+/action "Raise" <t>
+```
 
 This tells everyone in the party chat who you're raising, before using Swiftcast followed by Raise. The icon for the whole ability would be the Raise icon, including the mp cost and whether or not the target is in range. The only difference between this and the normal ability is the cog at the top-right showing its a macro.
 
