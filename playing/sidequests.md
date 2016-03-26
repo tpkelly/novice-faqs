@@ -13,7 +13,7 @@ Before level 50, there are 4 optional dungeons you can unlock.
 
 After completing the Main Story Quest [The Scions of the Seventh Dawn](http://ffxiv.gamerescape.com/wiki/The_Scions_of_the_Seventh_Dawn) you begin to hire retainers. Retainers allow you to sell your items to other players, and often get much better prices than selling to vendors would. They can also store items, with an inventory of 175 slots.
 
-Initially you can have up to 2 retainers, with additional retainer slots available to purchase on the cash shop.
+Initially you can have up to 2 retainers, with additional retainer slots available to purchase on the [cash shop](https://secure.square-enix.com/account/app/svc/ffxivshopacctop).
 
 Retainers can be hired in any of the 4 main cities from;
 - Parnell in Old Gridania (X:14 Y:9)
@@ -33,7 +33,7 @@ Attaching materia to gear allows you to tweak and boost the stats of a piece. Th
 - [Waking the spirit](http://ffxiv.gamerescape.com/wiki/Waking_the_Spirit) (Lvl 19 crafter except Culinarian) teaches you to take materia and put it on a piece of gear. This quest is also required to complete any of the Lvl 20 crafting quests, except Culinarian.
 - [Melding Materia Muchly](http://ffxiv.gamerescape.com/wiki/Melding_Materia_Muchly) (Lvl 25 crafter except Culinarian) teaches you "Advanced materia melding", also known as "Overmelding". This allows you to place more materia on gear than there are slots available, up to 5 materia. The probability of success decreases dramatically the more overmelds you put on a piece.
 
-Normally to change your appearance you have to obtain a [Fantasia](http://ffxiv.gamerescape.com/wiki/Fantasia). You receive one after 30 days of playing, from the Collectors edition of Heavensward or by paying for them from the Cash shop. However you can unlock the Aesthetician instead which allows you to make small changes such as hairstyles, tattoos, and face paints.
+Normally to change your appearance you have to obtain a [Fantasia](http://ffxiv.gamerescape.com/wiki/Fantasia). You receive one after 30 days of playing, from the Collectors edition of Heavensward or by paying for them from the [cash shop](https://secure.square-enix.com/account/app/svc/ffxivshopitemshop). However you can unlock the Aesthetician instead which allows you to make small changes such as hairstyles, tattoos, and face paints.
 
 - Complete [Beauty is only scalp deep](http://ffxiv.gamerescape.com/wiki/Beauty_Is_Only_Scalp_Deep) (Lvl 15) Limsa Lominsa Upper Decks (X:11 Y:11) to unlock the Aethetician.
 
@@ -46,6 +46,6 @@ There are 3 dance emotes available to unlock in each main city.
 
 There are also a number of other dances from other sources;
 - Manderville Dance: [The Hammer](http://ffxiv.gamerescape.com/wiki/The_Hammer) in the Manderville questline (Lvl 50)
-- Bomb Dance: Originally in the 2014 Moonlight Faire, now only available from the cash shop.
+- Bomb Dance: Originally in the 2014 Moonlight Faire, now only available from the [cash shop](https://secure.square-enix.com/account/app/svc/ffxivshopitemshop).
 - Thavnairian Dance: Available by purchasing the [Ballroom Etiquette - The Thavnairian Dance](http://ffxiv.gamerescape.com/wiki/Ballroom_Etiquette_-_The_Thavnairian_Dance) manual for 80,000 MGP in the Gold Saucer.
 - Gold Dance: Available by purchasing the [Ballroom Etiquette - The Gold Dance](http://ffxiv.gamerescape.com/wiki/Ballroom_Etiquette_-_The_Gold_Dance) manual for 80,000 MGP in the Gold Saucer.
