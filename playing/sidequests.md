@@ -4,10 +4,10 @@
 
 Before level 50, there are 4 optional dungeons you can unlock.
 
-- Halatali (Lvl 20): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest "Hello Halatali".
-- The Sunkern Temple of Qarn (Lvl 35): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest "Braving new depths".
-- Cutter's Cry (Lvl 38): Unlocks in Ul'dah (Steps of Thal X:14 Y:10) from the quest "Dishonor before Death"
-- The Aurum Value (Lvl 47): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest "Going for Gold".
+- Halatali (Lvl 20): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest [Hello Halatali](http://ffxiv.gamerescape.com/wiki/Hallo_Halatali).
+- The Sunkern Temple of Qarn (Lvl 35): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest [Braving new Depths](http://ffxiv.gamerescape.com/wiki/Braving_New_Depths).
+- Cutter's Cry (Lvl 38): Unlocks in Ul'dah (Steps of Thal X:14 Y:10) from the quest [Dishonor before Death](http://ffxiv.gamerescape.com/wiki/Dishonor_Before_Death)
+- The Aurum Value (Lvl 47): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest [Going for Gold](http://ffxiv.gamerescape.com/wiki/Going_for_Gold).
 
 ### Retainers
 
