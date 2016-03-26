@@ -2,7 +2,7 @@
 
 Macros are a way of executing a set of actions in order by pressing a single button.
 
-To see and write macros, open up the /macros menu or press the "System" menu option and select "User Macros"
+To see and write macros, open up the **/macros** menu or press the "System" menu option and select "User Macros"
 
 ![Some default macros](../img/macros.png)
 
