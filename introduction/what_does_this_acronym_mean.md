@@ -7,6 +7,7 @@
 - BRD = Bard
 - CNJ = Conjurer
 - DEX = Dexterity
+- DF = Duty Finder
 - DPS = Damage per second, also used to refer to damage dealing classes (i.e. not tanks or healers)
 - DRG = Dragoon
 - DRK = Dark Knight
@@ -25,6 +26,7 @@
 - MRD = Marauder
 - **MSQ = Main story quest**
 - NIN = Ninja
+- PF = Party Finder
 - PGL = Pugilist
 - PIE = Piety
 - PLD = Paladin
