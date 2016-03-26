@@ -1,4 +1,4 @@
-# Where do I unlock the XYZ class/job?
+### Where do I unlock the XYZ class/job?
 
 After level 10, you will be able to accept quests from other guilds to unlock new classes.
 

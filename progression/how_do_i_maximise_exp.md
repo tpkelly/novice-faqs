@@ -1,4 +1,4 @@
-# How do I maximise exp?
+### How do I maximise exp?
 
 ### Battles
 Quests will give you xp, you should pick them up when you find them. Dungeons give you a constant feed of xp, and can be a great way too.

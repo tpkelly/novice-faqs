@@ -1,4 +1,4 @@
-# What can I do to be better at my job?
+### What can I do to be better at my job?
 
 First, do your class/job quests. These can be found at your class' guild and will sometimes give you new abilities.
 

@@ -1,4 +1,5 @@
-# Should I level another character?
+### Should I level another character?
+
 In short, you don't need to but that shouldn't stop you. FFXIV allows you to level all classes to max rank on a single character, and there are benefits to doing so. This should not stop you from creating alts on other worlds if you want to visit other friends.
 
 To change class, simply change the weapon you have currently equipped to the weapon from that class. You have to have the new class unlocked before you are able to do so.
