@@ -22,7 +22,7 @@ Crafting and gathering classes are also unlocked from guilds
 - [Weaver](http://ffxiv.gamerescape.com/wiki/Weaver) - Ul'dah Steps of Thal (X:13 Y:14)
 - [Alchemist](http://ffxiv.gamerescape.com/wiki/Alchemist) Ul'dah Steps of Thal (X:9 Y:14 upstairs)
 - [Culinarian](http://ffxiv.gamerescape.com/wiki/Culinarian) - Limsa Lominsa Upper Decks (X:10 Y:8)
-- [Botanist](http://ffxiv.gamerescape.com/wiki/Botanist) - Old Gridania (X:07 Y:08)
+- [Botanist](http://ffxiv.gamerescape.com/wiki/Botanist) - Old Gridania (X:7 Y:8)
 - [Miner](http://ffxiv.gamerescape.com/wiki/Miner) - Ul'dah Steps of Thal (X:11 Y:14)
 - [Fisher](http://ffxiv.gamerescape.com/wiki/Fisher) - Limsa Lominsa Lower Decks (X:8 Y:14)
 

@@ -22,7 +22,7 @@ You can also execute abilities on yourself with <me>
 
 ```/ac "Divine Seal" <me>```
 
-If you want to add a wait after an action before the next one is executed, you use <wait.x> where 'x' is the number of secondsd to wait before the next ability.
+If you want to add a wait after an action before the next one is executed, you use <wait.x> where 'x' is the number of seconds to wait before the next ability.
 
 E.g.
 
