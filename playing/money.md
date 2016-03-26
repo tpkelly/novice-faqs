@@ -14,7 +14,7 @@ Consumable items can be very profitable, as they will always be needed. Elementa
 
 ### Loot the dungeon
 
-Raiding dungeons can earn you money directly in small amounts, but can also earn you gear and items which can be sold. For items you can't sell (such as those with a green or purple background), you can trade them in to your Grand Company's Personnel Officer through "Expert Delivery" after earning the rank of "Sergeant Second Class" for company seals.
+Raiding dungeons can earn you money directly in small amounts, but can also earn you gear and items which can be sold. For items you can't sell (such as those with a green or pink background), you can trade them in to your Grand Company's Personnel Officer through "Expert Delivery" after earning the rank of "Sergeant Second Class" for company seals.
 
 Company seals can be traded in to your Grand Company's Quartermaster for [Ventures](http://ffxiv.gamerescape.com/wiki/Venture). These tokens can be given to retainers to send them on short quests for more items. This can either be a specific item from a shortlist and a 1 hour expedition, or a random item from a longer 18 hour expedition. The items they bring back are almost always sellable, and some of the items can be worth a lot of money.
 

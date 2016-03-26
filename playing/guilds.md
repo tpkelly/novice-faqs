@@ -14,6 +14,8 @@ On the guild window, you should look at a few pieces of information
 
 You should also make sure to chat to someone in the guild before joining. If you received an invitation to a guild without anybody saying anything to you first, it may not be a very social guild.
 
+While larger guilds can afford to have exp increasing buffs on at all times, some guilds are too small to be able to afford these. When choosing a guild, you may want to ask how often they have their company buffs on.
+
 ### Founding a guild
 
 Don't like any of the guilds you see? Why not create your own?

@@ -2,29 +2,33 @@
 
 After level 10, you will be able to accept quests from other guilds to unlock new classes.
 
-For classes (i.e. the base jobs) you unlock them from the guild in the main cities;
-- [Marauder](http://ffxiv.gamerescape.com/wiki/Marauder) - Limsa Lominsa Upper Decks (X:11 Y:6)
+For battle classes (i.e. the base jobs) you unlock them from the guild in the main cities. Crafting and gathering classes are also unlocked from guilds in these cities.
+
+In Ul'dah:
 - [Gladiator](http://ffxiv.gamerescape.com/wiki/Gladiator) - Ul'dah Steps of Thal (X:9 Y:12)
 - [Pugilist](http://ffxiv.gamerescape.com/wiki/Pugilist) - Ul'dah Steps of Nald (X:10 Y:10)
-- [Lancer](http://ffxiv.gamerescape.com/wiki/Lancer) - Old Gridania (X:14 Y:6)
-- [Archer](http://ffxiv.gamerescape.com/wiki/Archer) - New Gridania (X:15 Y:12)
-- [Rogue](http://ffxiv.gamerescape.com/wiki/Rogue) - Limsa Lominsa Lower Decks (X:8 Y:16)
-- [Conjurer](http://ffxiv.gamerescape.com/wiki/Conjurer) - Old Gridania (X:7 Y:11)
 - [Thaumaturge](http://ffxiv.gamerescape.com/wiki/Thaumaturge) - Ul'dah Steps of Nald (X:7 Y:13)
-- [Arcanist](http://ffxiv.gamerescape.com/wiki/Arcanist) - Limsa Lominsa Lower Decks (X:4 Y:11)
-
-Crafting and gathering classes are also unlocked from guilds
-- [Carpenter](http://ffxiv.gamerescape.com/wiki/Carpenter) - New Gridania (X:11 Y:12)
-- [Blacksmith](http://ffxiv.gamerescape.com/wiki/Blacksmith) - Limsa Lominsa Upper Decks (X:10 Y:15)
-- [Armorer](http://ffxiv.gamerescape.com/wiki/Armorer) - Limsa Lominsa Upper Decks (X:10 Y:15)
 - [Goldsmith](http://ffxiv.gamerescape.com/wiki/Goldsmith) - Ul'dah Steps of Thal (X:10 Y:13)
-- [Leatherworker](http://ffxiv.gamerescape.com/wiki/Leatherworker) - Old Gridania (X:12 Y:8)
 - [Weaver](http://ffxiv.gamerescape.com/wiki/Weaver) - Ul'dah Steps of Thal (X:13 Y:14)
 - [Alchemist](http://ffxiv.gamerescape.com/wiki/Alchemist) Ul'dah Steps of Thal (X:9 Y:14 upstairs)
-- [Culinarian](http://ffxiv.gamerescape.com/wiki/Culinarian) - Limsa Lominsa Upper Decks (X:10 Y:8)
-- [Botanist](http://ffxiv.gamerescape.com/wiki/Botanist) - Old Gridania (X:7 Y:8)
 - [Miner](http://ffxiv.gamerescape.com/wiki/Miner) - Ul'dah Steps of Thal (X:11 Y:14)
+
+In Limsa Lominsa:
+- [Marauder](http://ffxiv.gamerescape.com/wiki/Marauder) - Limsa Lominsa Upper Decks (X:11 Y:6)
+- [Rogue](http://ffxiv.gamerescape.com/wiki/Rogue) - Limsa Lominsa Lower Decks (X:8 Y:16)
+- [Arcanist](http://ffxiv.gamerescape.com/wiki/Arcanist) - Limsa Lominsa Lower Decks (X:4 Y:11)
+- [Blacksmith](http://ffxiv.gamerescape.com/wiki/Blacksmith) - Limsa Lominsa Upper Decks (X:10 Y:15)
+- [Armorer](http://ffxiv.gamerescape.com/wiki/Armorer) - Limsa Lominsa Upper Decks (X:10 Y:15)
+- [Culinarian](http://ffxiv.gamerescape.com/wiki/Culinarian) - Limsa Lominsa Upper Decks (X:10 Y:8)
 - [Fisher](http://ffxiv.gamerescape.com/wiki/Fisher) - Limsa Lominsa Lower Decks (X:8 Y:14)
+
+In Gridania:
+- [Lancer](http://ffxiv.gamerescape.com/wiki/Lancer) - Old Gridania (X:14 Y:6)
+- [Archer](http://ffxiv.gamerescape.com/wiki/Archer) - New Gridania (X:15 Y:12)
+- [Conjurer](http://ffxiv.gamerescape.com/wiki/Conjurer) - Old Gridania (X:7 Y:11)
+- [Carpenter](http://ffxiv.gamerescape.com/wiki/Carpenter) - New Gridania (X:11 Y:12)
+- [Leatherworker](http://ffxiv.gamerescape.com/wiki/Leatherworker) - Old Gridania (X:12 Y:8)
+- [Botanist](http://ffxiv.gamerescape.com/wiki/Botanist) - Old Gridania (X:7 Y:8)
 
 Jobs are the "advanced" classes, which are unlocked through quests. Each job quest requires a level 30 and level 15 class to unlock, and the level 30 class quest of the former to have been completed.
 - [Warrior](http://ffxiv.gamerescape.com/wiki/Warrior) (Marauder 30, Gladiator 15)
