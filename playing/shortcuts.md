@@ -5,6 +5,7 @@
 - P: Abilities & Traits
 - J: Journal
 - U: Duty List
+- Shift+U: Party Finder
 - I: Inventory
 - Ctrl+I: Armoury chest
 - O: Social (Party members, friends list)

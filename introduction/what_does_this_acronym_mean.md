@@ -10,13 +10,16 @@
 - DPS = Damage per second, also used to refer to damage dealing classes (i.e. not tanks or healers)
 - DRG = Dragoon
 - DRK = Dark Knight
+- EX = Extreme mode; A very tough version of a trial with new mechanics and different loot.
 - GC = Grand Company (Gridania's Twin Adders, Ul'dah's Immortal Flames and Limsa Lominsa's Maelstrom)
 - GLA = Gladiator
 - GM = Game Master (aka Square Enix mods)
 - FC = Free Company (aka Player-run guilds)
+- HM = Hard-mode; An advanced version of a trial or dungeon, usually as a sequel to the normal mode with tougher mechanics and different loot.
 - INT = Intelligence
 - LNC = Lancer
 - MCH = Machinist
+- MGP = Manderville Gold Saucer Points (Currency for use in the Gold Saucer)
 - MND = Mind
 - MNK = Monk
 - MRD = Marauder
