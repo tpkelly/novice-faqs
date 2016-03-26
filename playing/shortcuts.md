@@ -14,3 +14,4 @@
 - Y: Fishing Log
 - M: Map
 - R: Autorun
+- Shift+F: Focus Target
