@@ -14,6 +14,7 @@
   * [Which sidequests are useful?](playing/sidequests.md)
   * [How do I choose a guild to join?](playing/guilds.md)
   * [What shortcuts can I use on PC?](playing/shortcuts.md)
+  * [What are macros?](playing/macros.md)
 * [Troubleshooting](troubleshooting/README.md)
   * [How do I leave the novice chat?](troubleshooting/leave.md)
   * [How do I report someone?](troubleshooting/report.md)
