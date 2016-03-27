@@ -7,7 +7,7 @@ Before level 50, there are 4 optional dungeons you can unlock.
 - Halatali (Lvl 20): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest [Hello Halatali](http://ffxiv.gamerescape.com/wiki/Hallo_Halatali).
 - The Sunkern Temple of Qarn (Lvl 35): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest [Braving new Depths](http://ffxiv.gamerescape.com/wiki/Braving_New_Depths).
 - Cutter's Cry (Lvl 38): Unlocks in Ul'dah (Steps of Thal X:14 Y:10) from the quest [Dishonor before Death](http://ffxiv.gamerescape.com/wiki/Dishonor_Before_Death)
-- Dzemael Darkhold (Lvl 44): Unlocks in Dragonhead (X:24 Y:28) from the quest [Fort of Fear](http://ffxiv.gamerescape.com/wiki/Fort_of_Fear) or in your Grand Company HQ from the quest Shadows Uncast ([Maelstron](http://ffxiv.gamerescape.com/wiki/Shadows_Uncast_(Maelstrom))/[Twin Adders](http://ffxiv.gamerescape.com/wiki/Shadows_Uncast_(Twin_Adder))/[Immortal Flames](http://ffxiv.gamerescape.com/wiki/Shadows_Uncast_(Immortal_Flames))).
+- Dzemael Darkhold (Lvl 44): Unlocks in Dragonhead (X:24 Y:28) from the quest [Fort of Fear](http://ffxiv.gamerescape.com/wiki/Fort_of_Fear) or in your Grand Company HQ from the quest Shadows Uncast ([Maelstron](http://ffxiv.gamerescape.com/wiki/Shadows_Uncast_&#40;Maelstrom&#41;)/[Twin Adders](http://ffxiv.gamerescape.com/wiki/Shadows_Uncast_&#40;Twin_Adder&#41;)/[Immortal Flames](http://ffxiv.gamerescape.com/wiki/Shadows_Uncast_&#40;Immortal_Flames&#41;)).
 - The Aurum Value (Lvl 47): Unlocks in Vesper Bay (Western Thanalan X:12 Y:14) from the quest [Going for Gold](http://ffxiv.gamerescape.com/wiki/Going_for_Gold).
 
 ### Retainers
