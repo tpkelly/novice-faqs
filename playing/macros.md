@@ -22,7 +22,7 @@ You can also execute abilities on yourself with <me>
 
 ```/ac "Divine Seal" <me>```
 
-If you want to add a wait after an action before the next one is executed, you use <wait.x> where 'x' is the number of seconds to wait before the next ability.
+If you want to add a wait after an action before the next one is executed, you use <wait.x> where 'x' is the number of whole seconds to wait before the next ability.
 
 E.g.
 
@@ -47,3 +47,13 @@ This tells everyone in the party chat who you're raising, before using Swiftcast
 ![Raise out of range](../img/Raise.png)
 
 To use your macro, you can either right-click and Execute in the macro menu, or you can drag it onto your hotbar and use it like a normal ability.
+
+#### Watch out for latency
+
+With all that said, you want to be careful about when you use macros. They are slower to use than normal abilities and may not always execute in full if the server latency is bad enough that the first action didn't register as triggered.
+
+Using a macro will also cancel the use of any other macros, so they can't be "stacked".
+
+You should avoid using macros for a combo of battle actions, as one in the middle may not trigger properly. Combat situations also come with higher levels of network activity, so server latency can get worse.
+
+Using macros is a careful balancing trick, and will take some time to get experienced with. When in doubt about your macros, ask in the novice network!
