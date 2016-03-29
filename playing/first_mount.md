@@ -2,7 +2,7 @@
 
 To earn a mount, you need to have completed the level 20 main story quest and joined a grand company. You will be able to start a side quest called "My Little Chocobo" at the Grand Company HQ.
 
-The Grand Company's Quartermaster will sell a Chocobo Issuance for 2,000 company seals. Company seals can be earned by participating in FATEs, or by doing Grand Company Levequests.
+The Grand Company's Quartermaster will sell a Chocobo Issuance for 200 company seals. Company seals can be earned by participating in FATEs, or by doing Grand Company Levequests.
 
 At level 20 and 25, Grand Company Levequests are available from Eugene in Moraby Drydocks (Limsa Lominsa), Cedrepierre in Hawthorne Hut (Gridania) and Kikiri in Camp Drybone (Ul'dah).
 - To accept these levequests you need to complete the regional leve quest (E.g. [Leves of Moraby](http://ffxiv.gamerescape.com/wiki/Leves_of_Moraby)), which only becomes available after completing the previous rank of leve acceptance quests from either Swiftperch, Horizon or Bentbranch.

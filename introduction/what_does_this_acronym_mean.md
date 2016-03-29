@@ -39,15 +39,19 @@
 
 #### Gameplay
 
+- CD = Cooldown: An ability which has its own recast timer not shared with other abilities, and unaffected by Skill/Spell speed
 - DF = Duty Finder
 - DPS = Damage per second, also used to refer to damage dealing classes (i.e. not tanks or healers)
 - EX = Extreme mode; A very tough version of a trial with new mechanics and different loot.
-- GC = Grand Company (Gridania's Twin Adders, Ul'dah's Immortal Flames and Limsa Lominsa's Maelstrom)
-- GM = Game Master (aka Square Enix mods)
 - FC = Free Company (aka Player-run guilds)
+- GC = Grand Company (Gridania's Twin Adders, Ul'dah's Immortal Flames and Limsa Lominsa's Maelstrom)
+- GCD = Global cooldown: An ability which shares its recast timer with other abilities. Higher Skill/Spell speed reduces the recast time.
+- GM = Game Master (aka Square Enix mods)
 - HM = Hard-mode; An advanced version of a trial or dungeon, usually as a sequel to the normal mode with tougher mechanics and different loot.
+- LB = Limit break
 - MGP = Manderville Gold Saucer Points (Currency for use in the Gold Saucer)
 - **MSQ = Main story quest**
+- OGCD: Synonym for Cooldown (CD).
 - PF = Party Finder
 
 #### Dungeons and Raids
